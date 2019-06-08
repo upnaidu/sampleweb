@@ -1,0 +1,22 @@
+.para_border {
+border:1px solid #333333;
+height:auto;
+width:600px;
+}
+
+.para_border1 {
+border:1px solid #333333;
+height:auto;
+width:230px;
+}
+
+.content{
+	word-wrap: break-word;
+	padding: 10px;
+}
+.division{
+	padding: 12px;
+}
+.mainDivision{
+	padding: 25px;
+}
